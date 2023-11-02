@@ -1,0 +1,74 @@
+Tier 1,Tier 2,Term
+Payment,Booking,book
+Payment,Booking,cancelled
+Payment,Booking,flexible
+Payment,Booking,overbooked
+Payment,Booking,paid
+Payment,Booking,reserve
+Payment,Booking,reservation
+Payment,Price,affordable
+Payment,Price,cheap
+Payment,Price,fare
+Payment,Price,money
+Payment,Price,price
+Payment,Price,value
+Payment,Refund,compensation
+Payment,Refund,refund
+People,Customers,customer
+People,Customers,passenger
+People,Staff,driver
+People,Staff,professional
+People,Staff,staff
+Service,Communication,announcement
+Service,Communication,coach tracker
+Service,Communication,communication
+Service,Communication,facebook messenger
+Service,Communication,information
+Service,Communication,messenger
+Service,Communication,phone
+Service,Communication,tracker
+Service,Facility,amenity
+Service,Facility,bathroom
+Service,Facility,charging
+Service,Facility,clean
+Service,Facility,flush
+Service,Facility,loo
+Service,Facility,plug
+Service,Facility,seat
+Service,Facility,sink
+Service,Facility,tap
+Service,Facility,toilet
+Service,Facility,usb port
+Service,Facility,wi-fi
+Service,Facility,wifi
+Service,Journey,arrive
+Service,Journey,carriageway
+Service,Journey,change
+Service,Journey,connection
+Service,Journey,departure
+Service,Journey,drive
+Service,Journey,fast
+Service,Journey,journey
+Service,Journey,motorway
+Service,Journey,replacement
+Service,Journey,route
+Service,Journey,showed up
+Service,Journey,slow
+Service,Journey,stuck
+Service,Strike,strike
+Service,Temperature,boiling
+Service,Temperature,chilly
+Service,Temperature,cold
+Service,Temperature,cool
+Service,Temperature,heat
+Service,Temperature,hot
+Service,Temperature,roasting
+Service,Time,delay
+Service,Time,hour
+Service,Time,late
+Service,Time,on time
+Service,Time,prompt
+Service,Time,punctual
+Service,Time,time
+Service,Time,timing
+Service,Time,wait
