@@ -72,3 +72,38 @@ Service,Time,punctual
 Service,Time,time
 Service,Time,timing
 Service,Time,wait
+Payment,Ancillary,change and go
+Payment,Ancillary,change & go
+Payment,Ancillary,reservation
+Payment,Ancillary,premium seat
+Payment,Ancillary,oyster
+Payment,Ancillary,coach card
+Payment,Ancillary,coachcard
+Payment,Ancillary,1A
+Payment,Ancillary,1B
+Payment,Ancillary,1C
+Payment,Ancillary,1D
+Payment,Ancillary,2A
+Payment,Ancillary,2B
+Payment,Ancillary,2C
+Payment,Ancillary,2D
+Payment,Ancillary,3A
+Payment,Ancillary,3B
+Payment,Ancillary,3C
+Payment,Ancillary,3D
+Payment,Ancillary,4A
+Payment,Ancillary,4B
+Payment,Ancillary,4C
+Payment,Ancillary,4D
+Payment,Ancillary,5A
+Payment,Ancillary,5B
+Payment,Ancillary,5C
+Payment,Ancillary,5D
+Payment,Ancillary,luggage
+Payment,Ancillary,extra luggage
+Payment,Ancillary,luggage
+Payment,Ancillary,suitcase
+Payment,Ancillary,bag
+Payment,Ancillary,rewards
+Payment,Ancillary,fee
+Payment,Ancillary,booking fee
